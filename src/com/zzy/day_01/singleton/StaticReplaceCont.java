@@ -1,4 +1,4 @@
-package com.zzy.day_01;
+package com.zzy.day_01.singleton;
 
 /**
  * 使用静态方法来获取对象，代替构造方法获取对象 ，使用单例
